@@ -1,0 +1,3 @@
+---
+# vars file for mariadb-server
+mysql_root_password: SuperSecretHardToBreakPassword
