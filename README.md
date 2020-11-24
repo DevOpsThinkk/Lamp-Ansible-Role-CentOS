@@ -59,4 +59,7 @@ And now we can put it all together into a playbook to build out the LAMP server.
 ```
 
 Now, to deploy we issue the following while keeping in mind we have a vault to decrypt at run time:
-``` ansible-playbook lamp-playbook --ask-vault-pass ```
+
+```
+ansible-playbook lamp-playbook --ask-vault-pass
+```
