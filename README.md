@@ -6,7 +6,7 @@
 
 
 # CentOS 7 – LAMP Stack
-Ansible Playbook for CentOS 8 LAMP server with phpMyAdmin
+Ansible Playbook for CentOS 7 LAMP server with phpMyAdmin
 
 # Filesystem Layout:
 
