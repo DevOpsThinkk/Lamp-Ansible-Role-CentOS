@@ -5,6 +5,7 @@
     - php
     - php-gd
     - php-mysqlnd
+    - php-mysql
     - php-mbstring
     - php-process
     - php-xmlrpc

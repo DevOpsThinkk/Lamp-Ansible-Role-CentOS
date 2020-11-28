@@ -5,7 +5,10 @@
   with_items:
     - httpd
     - mod_ssl
+<<<<<<< HEAD
 #    - libsemanage-python
+=======
+>>>>>>> 6eddc2b444641520e527589b5751a0bffa2c6389
 
 - name: Enable and start Apache
   systemd:
@@ -32,7 +35,10 @@
     name: httpd_can_network_connect
     state: yes
     persistent: yes
+<<<<<<< HEAD
 #  when:
 #    - ansible_selinux.status == "enabled"
 #    - selinux_allow_zabbix_can_network
 #  tags: selinux
+=======
+>>>>>>> 6eddc2b444641520e527589b5751a0bffa2c6389
