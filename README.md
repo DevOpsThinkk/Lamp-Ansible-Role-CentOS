@@ -3,6 +3,8 @@
         <img alt="LAMP" src="https://github.com/DevOpsThinkk/Lamp-Ansible-Role-CentOS/blob/master/lamp.png">
     </a>
 </div>
+
+
 # CentOS 7 – LAMP Stack
 Ansible Playbook for CentOS 8 LAMP server with phpMyAdmin
 
