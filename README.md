@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://lamp.sh/" target="_blank">
-        <img alt="LAMP" src="https://github.com/DevOpsThinkk/Lamp-Ansible-Role-CentOSlamp.png">
+    <a href="https://github.com/DevOpsThinkk/Lamp-Ansible-Role-CentOS/blob/master/lamp.png" target="_blank">
+        <img alt="LAMP" src="https://github.com/DevOpsThinkk/Lamp-Ansible-Role-CentOS/blob/master/lamp.png">
     </a>
 </div>
 # CentOS 7 – LAMP Stack
