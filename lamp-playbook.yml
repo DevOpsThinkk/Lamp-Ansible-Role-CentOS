@@ -1,0 +1,8 @@
+---
+- hosts: lamp
+  roles:
+    - apache-server
+    - php-stack
+    - mariadb-server
+    - phpmyadmin
+  become: yes
