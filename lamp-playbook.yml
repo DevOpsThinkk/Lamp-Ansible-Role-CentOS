@@ -1,8 +1,10 @@
 ---
 - hosts: lamp
   roles:
+    - prerequisites
     - apache-server
     - php-stack
     - mariadb-server
     - phpmyadmin
+    - wordpress
   become: yes
