@@ -5,12 +5,12 @@ wp_root_loc: /var/www/html
 wp_root_dbuser: root
 wp_root_dbpass: MySQLServer@123
 wp_adminuser: admin
-wp_adminpass: testpass123
+wp_adminpass: MySQLServer@123
 wp_adminmail: info@devopsthink.com
-wp_url: example.com
+wp_url: localhost.com
 wp_title: Wordpress Title
-wp_dbname: wp_testdb
-wp_dbuser: wp_testuser
-wp_dbpass: testpass123
+wp_dbname: devopsdb
+wp_dbuser: devopsuser
+wp_dbpass: MySQLServer@123
 wp_dbhost: localhost
 wp_locale: en_US
